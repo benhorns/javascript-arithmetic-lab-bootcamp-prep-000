@@ -15,6 +15,6 @@ return(a/b)
 }
 
 function inc(n){
-n+=
+n +=
 return n
 }
